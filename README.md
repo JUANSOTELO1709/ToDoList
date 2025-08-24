@@ -1,3 +1,7 @@
+
+
+<img width="1851" height="877" alt="Image" src="https://github.com/user-attachments/assets/9c645213-cb02-4c06-827e-291d292ae2df" />
+
 # Configuración de la Base de Datos para ToDoList
 
 Este proyecto utiliza MariaDB como sistema de gestión de base de datos. Sigue estos pasos para configurar la base de datos y conectar la aplicación:
